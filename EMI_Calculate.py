@@ -5,7 +5,6 @@ import sys
 #taking inout for principal amount
 #initiation of variable
 
-P=R=N=1
 try:
 	P=(float(sys.argv[1])*100000)
 except:
